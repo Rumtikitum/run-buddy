@@ -125,6 +125,9 @@ footer a {
     text-align: center;
 }
 
+
+/*Youre steps*/
+
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -179,3 +182,48 @@ footer a {
 .steps span {
     font-size: 38px;
 }
+
+/*your steps end*/
+
+/*trainer*/
+
+.trainers {
+    text-align: center;
+}
+
+.trainer {
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: #024e76;
+    overflow: auto;
+}
+
+.trainer img{
+    width: 35%;
+    float: left;
+}
+
+.trainer-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
+.trainer-2 {
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: #024e76;
+    overflow: auto;
+}
+
+.trainer-2 img{
+    width: 35%;
+    float: right;
+}
+
+.trainer-bio-2 {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
