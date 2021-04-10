@@ -145,7 +145,9 @@ footer a {
     line-height: 1.7;
     color: #39a6b2;
     width: 80%;
+    font-size: 20px;
     margin: 0 auto;
+    padding-bottom: 25px;
 }
 
 .steps {
@@ -166,7 +168,7 @@ footer a {
 .steps h3 {
     color: #024e76;
     font-size: 46px;
-    margin-top: 23px;
+    margin-top: 10px;
 }
 
 .steps p {
