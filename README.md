@@ -1,1 +1,1 @@
-# run-buddy active branch
+# Run Buddy Inc
